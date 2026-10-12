@@ -2,6 +2,8 @@
 
 Aplikasi web untuk mengelola reservasi dan pendapatan self-photo studio. Frontend dibuat dengan HTML, CSS, dan JavaScript tanpa framework; data dan autentikasi menggunakan Supabase.
 
+🌐 Demo website: https://nabilamitaa.github.io/Sistem-Reservasi-Pendapatan-Self-Photo-Studio/
+
 ## Fitur
 
 - Login admin melalui Supabase Auth.
